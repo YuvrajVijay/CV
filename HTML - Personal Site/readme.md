@@ -1,5 +1,5 @@
 # My CV 
-* used basic html to make my cv 
+* used basic html and css to make my cv 
 
 
 ![CV Front](screen1.png)
