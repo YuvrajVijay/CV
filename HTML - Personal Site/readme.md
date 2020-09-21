@@ -1,5 +1,8 @@
 # My CV 
 used basic html to make my cv 
+![CV Front](sreen1.png)
+![CV Hobbies](sreen2.png)
+![CV Contact](sreen3.png)
 ## Dependencies
 * HTML
 * atom
