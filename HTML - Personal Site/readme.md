@@ -1,4 +1,5 @@
 # My CV 
+click [here](https://yuvraj454.github.io/CV/) for website<br/>
 * used basic html and css to make my cv 
 
 
@@ -14,5 +15,4 @@
 ## Dependencies
 * HTML
 * atom
-## How to open
-simply download the repo. and open index.html or click here for viewing purpose
+
