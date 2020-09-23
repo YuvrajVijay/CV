@@ -14,5 +14,6 @@ click [here](https://yuvraj454.github.io/CV/) for website<br/>
 
 ## Dependencies
 * HTML
+* CSS
 * atom
 
